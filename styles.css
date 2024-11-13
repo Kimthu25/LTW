@@ -1,0 +1,33 @@
+body{
+    width: 800px;
+    height: 1000px;
+    margin: 0;
+}
+ol{
+    background-color:azure;
+    width: 730px;
+    height: 600px;
+    padding: 30px;
+    border: 20px solid aqua ;
+    margin: 0;
+}
+.efect{
+    text-align: center;
+    font-size: 40px;
+    color: #2c2c2c;
+    letter-spacing: .05em;
+    height: 100px;
+    padding-top: 30px;
+}
+#edit1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+    padding: 60px;
+    text-align: left;
+}
+.edit2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: black;
+}
